@@ -1,0 +1,7 @@
+{
+  "name": "door-bell",
+  "env": {
+    "user_id": "@user_id",
+    "bot_token": "@bot_token"
+  }
+}
