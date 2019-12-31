@@ -1,0 +1,7 @@
+{
+  "name": "arduino",
+  "env": {
+    "tg_user_id": "@tg_user_id",
+    "tg_bot_token": "@tg_bot_token"
+  }
+}
